@@ -1,0 +1,9 @@
+# Ignore Visual Studio Code settings directory
+.vscode/
+
+# Ignore specific .sh scripts
+*.sh
+
+# Ignore the target executable
+*.out
+
